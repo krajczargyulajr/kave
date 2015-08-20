@@ -1,12 +1,5 @@
 /bin/
-/bin/
-/bin/
-/bin/
-/bin/
-/bin/
-
-.settings/org.eclipse.jdt.core.prefs
-
+.settings/
 .classpath
-
 .project
+/target/
