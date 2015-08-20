@@ -1,0 +1,14 @@
+package com.ph03nixx.example;
+
+class Test {
+
+	private static final String exampleString = 
+		"""
+		This
+		is
+		a
+		simple
+		multiline
+		testfile
+		""";
+}
